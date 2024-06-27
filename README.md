@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anwarsyedali
+- 👋 Hi, I’m Anwar
 - 👀 I’m interested in AI and Software Engineering
 - 🌱 I’m currently learning DSA, JavaScript, Java and Machine Learning with Python
 - 💞️ I’m looking to collaborate on open source projects
