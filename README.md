@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anwar
 - 👀 I’m currently building Flair
-- 🌱 I’m currently learning DSA, JavaScript, Java and Machine Learning with Python
+- 🌱 I’m learning DSA, JavaScript, Java and Machine Learning with Python
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: anwar.ali.syed18@gmail.com
 - ⚡ Fun fact: I can speak 6 langauges and would like to learn Japanese too
